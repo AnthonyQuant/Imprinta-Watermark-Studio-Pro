@@ -1,0 +1,5 @@
+# Core Processing Engine
+Pillow>=10.2.0
+
+# Automated Testing Framework
+pytest>=8.0.0
